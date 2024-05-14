@@ -1,9 +1,3 @@
-/*
-Kalena Abrahim
-2/8/24
-Triangle Area
-*/
-
 import java.util.Scanner;
 
 public class TriangleArea {
@@ -32,17 +26,3 @@ public class TriangleArea {
             ((height * base * 5) / 10) + "." + ((height * base * 5) % 10) + ".");
     }
 }
-
-// =============== LAB SUMMARY ===============
-
-/*
-1. How much time was required to complete this assignment?
-About 30 minutes was taken to complete this assignment.
-
-2. What was the hardest part of this lab?
-The hardest part of the lab was creating the final
-print statement to output the area.
-
-3. What will you always remember (never forget) from this exercise?
-Properly formatting the equation for the final print statement.
-*/
